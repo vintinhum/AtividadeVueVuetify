@@ -1,6 +1,6 @@
 <template>
     <v-btn @click="deleteAllPosts()" icon color="black" fixed right>
-        <v-icon>mdi-delete</v-icon>
+        <v-icon>mdi-refresh</v-icon>
       </v-btn>
 </template>
 
